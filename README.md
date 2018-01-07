@@ -1,0 +1,2 @@
+# DateGenerator
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9f2ccd4ea3aa4ca897fef11c045c1f5e)](https://www.codacy.com/app/nkiernan/DateGenerator?utm_source=github.com&utm_medium=referral&utm_content=nkiernan/DateGenerator&utm_campaign=badger)
