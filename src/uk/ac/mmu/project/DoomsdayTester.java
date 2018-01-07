@@ -41,7 +41,7 @@ class DoomsdayTester {
         return true;
     }
 
-    int getDayOfWeek() {
+    public int getDayOfWeek() {
         if (!validDate(day, month, year))
             return -1;
 
@@ -58,7 +58,7 @@ class DoomsdayTester {
         return (centuryDay + anchorDay + day - doomsday + 35) % 7;
     }
 
-    String getWeekday(int dayOfWeek) {
+    public String getWeekday(int dayOfWeek) {
         switch (dayOfWeek) {
             case 0: return  "Sunday";
             case 1: return  "Monday";
